@@ -34,9 +34,9 @@ do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA).
 
 Os artefatos de planejamento e acompanhamento do projeto estão disponíveis abaixo:
 
-- 📊 [Business Model Canvas](docs/Business%20Model%20Canvas.pdf)
-- 🗂️ [Product Backlog e Kanban](https://github.com/users/murilodc/projects/1)
-- 📄 [Artigo científico](article/PGP.pdf)
+- [Business Model Canvas](docs/Business%20Model%20Canvas.pdf)
+- [Product Backlog e Kanban](https://github.com/users/murilodc/projects/1)
+- [Artigo científico](article/PGP.pdf)
 
 O Product Backlog reúne as atividades previstas para o desenvolvimento do projeto,
 enquanto o quadro Kanban é utilizado para acompanhar o andamento das tarefas durante
@@ -54,6 +54,3 @@ Na Sprint 0, o documento contempla Introdução, Problema, Objetivos e Justifica
 - `app/`: aplicação web
 - `tests/`: testes
 
-## Status
-
-🟡 Sprint 0 — Planejamento
