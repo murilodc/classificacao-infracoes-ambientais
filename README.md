@@ -30,6 +30,18 @@ do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama).
 - Google Colab
 - Streamlit
 
+## Planejamento do Projeto
+
+O planejamento e o acompanhamento do desenvolvimento são realizados por meio
+dos seguintes artefatos:
+
+- 📊 [Business Model Canvas](docs/Business%20Model%20Canvas.pdf)
+- 🗂️ [Product Backlog e Kanban](https://github.com/users/murilodc/projects/1)
+
+O Product Backlog reúne as atividades previstas para o desenvolvimento do
+projeto, enquanto o quadro Kanban é utilizado para acompanhar o andamento das
+tarefas durante as Sprints.
+
 ## Estrutura do projeto
 
 - `article/`: artigo científico
