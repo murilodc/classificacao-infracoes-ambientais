@@ -19,7 +19,7 @@ categorias.
 ## Dados
 
 Serão utilizados dados públicos disponibilizados pelo Instituto Brasileiro
-do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama).
+do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA).
 
 ## Tecnologias previstas
 
@@ -32,15 +32,16 @@ do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama).
 
 ## Planejamento do Projeto
 
-O planejamento e o acompanhamento do desenvolvimento são realizados por meio
-dos seguintes artefatos:
+Os artefatos de planejamento e acompanhamento do projeto estão disponíveis abaixo:
 
 - 📊 [Business Model Canvas](docs/Business%20Model%20Canvas.pdf)
 - 🗂️ [Product Backlog e Kanban](https://github.com/users/murilodc/projects/1)
+- 📄 [Artigo científico](article/PGP.pdf)
 
-O Product Backlog reúne as atividades previstas para o desenvolvimento do
-projeto, enquanto o quadro Kanban é utilizado para acompanhar o andamento das
-tarefas durante as Sprints.
+O Product Backlog reúne as atividades previstas para o desenvolvimento do projeto,
+enquanto o quadro Kanban é utilizado para acompanhar o andamento das tarefas durante
+as Sprints. O artigo científico é desenvolvido de forma incremental ao longo do projeto.
+Na Sprint 0, o documento contempla Introdução, Problema, Objetivos e Justificativa.
 
 ## Estrutura do projeto
 
